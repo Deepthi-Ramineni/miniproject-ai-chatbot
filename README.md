@@ -1,3 +1,8 @@
+Here is your full updated `README.md` with the **images added from the `assets/` folder** in the correct markdown format.
+
+---
+
+````markdown
 # 💬 AI Chatbot & Quiz App for DAA, FLAT, Aptitude + Article Summarizer
 
 This is a Flask-based AI-powered educational chatbot and quiz system designed for:
@@ -20,6 +25,31 @@ It also includes an **Article Summarizer** using NLP techniques, and supports **
 
 ---
 
+## 🖼️ Screenshots
+
+### Chatbot Interface
+![Chatbot](assets/chatbot.png)
+
+### Homepage
+![Homepage](assets/homepage.png)
+
+### Quiz Mode
+![Quiz Mode](assets/quiz_mode.png)
+
+### Quiz Questions
+![Quiz](assets/quiz.png)
+
+### Quiz Result
+![Quiz Result](assets/quiz_result.png)
+
+### Article Summarizer
+![Article Summarizer](assets/article_summerizer.png)
+
+### FA Transition Visualizer
+![Visualization](assets/visualization.png)
+
+---
+
 ## ⚙️ Setup Instructions
 
 Follow these steps to run the project locally.
@@ -31,7 +61,7 @@ Follow these steps to run the project locally.
 ```bash
 conda create -n miniproject python=3.10
 conda activate miniproject
-```
+````
 
 ---
 
@@ -84,13 +114,13 @@ python -c "from newspaper import Article; print('Import worked!')"
 python app.py
 ```
 
-# Visit your app at: [http://localhost:5000](http://localhost:5000)
+## Visit your app at: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-##  Finite Automata Transition Tables
+## 🧠 Finite Automata Transition Tables
 
-###  NFA JSON: `'a'` followed by `'b'`
+### 🔹 NFA JSON: `'a'` followed by `'b'`
 
 ```json
 {
@@ -102,7 +132,7 @@ python app.py
 
 ---
 
-###  DFA JSON: Any number of `'a'`, followed by any number of `'b'`, but no `'a'` after `'b'`
+### 🔹 DFA JSON: Any number of `'a'`, followed by any number of `'b'`, but no `'a'` after `'b'`
 
 ```json
 {
@@ -112,4 +142,9 @@ python app.py
 ```
 
 ---
+
+````
+
+---
+
 
