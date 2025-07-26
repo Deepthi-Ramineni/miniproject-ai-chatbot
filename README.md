@@ -25,28 +25,7 @@ It also includes an **Article Summarizer** using NLP techniques, and supports **
 
 ---
 
-## 🖼️ Screenshots
 
-### Chatbot Interface
-![Chatbot](assets/chatbot.png)
-
-### Homepage
-![Homepage](assets/homepage.png)
-
-### Quiz Mode
-![Quiz Mode](assets/quiz_mode.png)
-
-### Quiz Questions
-![Quiz](assets/quiz.png)
-
-### Quiz Result
-![Quiz Result](assets/quiz_result.png)
-
-### Article Summarizer
-![Article Summarizer](assets/article_summerizer.png)
-
-### FA Transition Visualizer
-![Visualization](assets/visualization.png)
 
 ---
 
