@@ -12,7 +12,7 @@ This is a Flask-based AI-powered educational chatbot and quiz system designed fo
 
 It also includes an Article Summarizer using NLP techniques, and supports **Finite Automata** transition table visualization.
 
----
+
 
 ## 🔹 Features
 
