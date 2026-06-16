@@ -14,7 +14,7 @@ It also includes an Article Summarizer using NLP techniques, and supports **Fini
 
 
 
-## 🔹 Features
+# 🔹 Features
 
 - Subject-specific conversational AI (DAA, FLAT, Aptitude)
 - Auto-generated MCQ quizzes with scoring
