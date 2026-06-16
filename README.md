@@ -23,17 +23,12 @@ It also includes an Article Summarizer using NLP techniques, and supports **Fini
 - Flask-based Web Interface
 - Graph generation using Graphviz for FA transitions
 
----
 
-
-
----
 
 ## ⚙️ Setup Instructions
 
 Follow these steps to run the project locally.
 
----
 
 ### ✅ 1. Create Conda Environment
 
