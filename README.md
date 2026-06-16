@@ -13,9 +13,7 @@ This is a Flask-based AI-powered educational chatbot and quiz system designed fo
 It also includes an Article Summarizer using NLP techniques, and supports **Finite Automata** transition table visualization.
 
 
-
 # 🔹 Features
-
 - Subject-specific conversational AI (DAA, FLAT, Aptitude)
 - Auto-generated MCQ quizzes with scoring
 - Article summarization using HuggingFace and Groq
@@ -26,26 +24,16 @@ It also includes an Article Summarizer using NLP techniques, and supports **Fini
 
 
 ## ⚙️ Setup Instructions
-
 Follow these steps to run the project locally.
-
-
 ### ✅ 1. Create Conda Environment
 
-```bash
+
 conda create -n miniproject python=3.10
 conda activate miniproject
-````
-
----
 
 ### ✅ 2. Install Required Packages
-
-```bash
 pip install -r req.txt
-```
 
----
 
 ### ✅ 3. Fix and Upgrade Specific Libraries
 
@@ -58,9 +46,7 @@ pip install --no-cache-dir sentence-transformers
 pip uninstall pinecone-client pinecone -y
 pip install --upgrade pinecone-client
 pip install "pinecone-client==2.2.4"
-```
 
----
 
 ### ✅ 4. Install Optional Tools
 
@@ -80,13 +66,10 @@ pip install "lxml[html_clean]"
 python -c "from newspaper import Article; print('Import worked!')"
 ```
 
----
-
 ### ✅ 6. Run the Flask Application
 
-```bash
 python app.py
-```
+
 
 ## Visit your app at: [http://localhost:5000](http://localhost:5000)
 
