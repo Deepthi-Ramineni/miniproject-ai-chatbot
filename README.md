@@ -6,11 +6,11 @@ Here is your full updated `README.md` with the **images added from the `assets/`
 # 💬 AI Chatbot & Quiz App for DAA, FLAT, Aptitude + Article Summarizer
 
 This is a Flask-based AI-powered educational chatbot and quiz system designed for:
-- **DAA (Design and Analysis of Algorithms)**
-- **FLAT (Formal Languages and Automata Theory)**
-- **Aptitude**
+- DAA (Design and Analysis of Algorithms)
+- FLAT (Formal Languages and Automata Theory)
+- Aptitude
 
-It also includes an **Article Summarizer** using NLP techniques, and supports **Finite Automata** transition table visualization.
+It also includes an Article Summarizer using NLP techniques, and supports **Finite Automata** transition table visualization.
 
 ---
 
